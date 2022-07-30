@@ -21,19 +21,19 @@ Icons from Material UI library have been used. Link is https://material-ui.com/c
 
 Screenshots of the App:
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/1.PNG)
+![alt text](https://github.com/gabrielsamutumwa/AmazonPrime-close-using-reactJS/blob/main/screenshots/1.PNG)
 
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/2.PNG)
+![alt text](https://github.com/gabrielsamutumwa/AmazonPrime-close-using-reactJS/blob/main/screenshots/2.PNG)
 
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/3.PNG)
+![alt text](https://github.com/gabrielsamutumwa/AmazonPrime-close-using-reactJS/blob/main/screenshots/3.PNG)
 
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/4.PNG)
+![alt text](https://github.com/gabrielsamutumwa/AmazonPrime-close-using-reactJS/blob/main/screenshots/4.PNG)
 
 
-![alt text](https://github.com/peeyush14goyal/AmazonPrime-ReactJS-Clone/blob/master/screenshots/5.PNG)
+![alt text](https://github.com/gabrielsamutumwa/AmazonPrime-close-using-reactJS/blob/main/screenshots/5.PNG)
 
 #### Contact Details: Email id => peeyushgoyal154@gmail.com
 
