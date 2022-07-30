@@ -35,7 +35,7 @@ Screenshots of the App:
 
 ![alt text](https://github.com/gabrielsamutumwa/AmazonPrime-close-using-reactJS/blob/main/screenshots/5.PNG)
 
-#### Contact Details: Email id => peeyushgoyal154@gmail.com
+#### Contact Details: Email id => 
 
 ## Featured
 https://freesoff.com/t/160-open-source-clones-of-popular-sites/88788
