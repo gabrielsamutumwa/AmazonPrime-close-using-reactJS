@@ -38,7 +38,6 @@ Screenshots of the App:
 #### Contact Details: Email id => 
 
 ## Featured
-https://freesoff.com/t/160-open-source-clones-of-popular-sites/88788
 
 ## Available Scripts
 
